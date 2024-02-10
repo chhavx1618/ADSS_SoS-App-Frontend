@@ -32,7 +32,9 @@ When the microphone starts to record, the app converts all the speech it hears i
 ## Screenshots
 
 Take a look around
-![WhatsApp Image 2024-02-10 at 23 02 31_ac6f7aa8](https://github.com/SkyGuard-ADSS/ADSS_SoS-App-Frontend/assets/152146397/9b90107c-d69d-43ee-82df-690892c6a308)
+![WhatsApp Image 2024-02-10 at 23 02 31_ac6f7aa8](https://github.com/SkyGuard-ADSS/ADSS_SoS-App-Frontend/assets/152146397/9b90107c-d69d-43ee-82df-690892c6a308) 
+<img src="[image_url_here](https://github.com/SkyGuard-ADSS/ADSS_SoS-App-Frontend/assets/152146397/9b90107c-d69d-43ee-82df-690892c6a308)" alt="Image Description" style="width:300px;">
+
 ![WhatsApp Image 2024-02-10 at 23 02 30_f4e5b326](https://github.com/SkyGuard-ADSS/ADSS_SoS-App-Frontend/assets/152146397/c1c146ff-9134-45b7-aafe-6cf331312a08)
 ![WhatsApp Image 2024-02-10 at 23 02 29_cb2cb1db](https://github.com/SkyGuard-ADSS/ADSS_SoS-App-Frontend/assets/152146397/85ebf09c-0781-4e98-a9ad-c08dcb222653)
 ![WhatsApp Image 2024-02-10 at 23 02 29_6f13ad0c](https://github.com/SkyGuard-ADSS/ADSS_SoS-App-Frontend/assets/152146397/ab6e381f-de9b-46d9-b388-33d21e72a2e5)
